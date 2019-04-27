@@ -134,7 +134,7 @@
 ## 4. 应用
 >![Fom](TIM图片20190427113557.png) 
 
->###4.1 1 to N
+>### 4.1 1 to N
 
 >>![Fom](TIM图片20190427143820.png) 
 
@@ -142,7 +142,7 @@
 
 >>![Fom](TIM图片20190427143945.png) 
 
->>####4.1.1 生成图像描述
+>>#### 4.1.1 生成图像描述
 >>>和卷积神经网络一起，给无标签的图像生成描述。
 
 >>>![Fom](TIM图片20190427142058.png)
@@ -151,11 +151,11 @@
 
 >>>- [Deep Visual-Semantic Alignments for Generating Image Descriptions](https://cs.stanford.edu/people/karpathy/cvpr2015.pdf) 
 
->###4.2 N to 1
+>### 4.2 N to 1
 
 >>![Fom](TIM图片20190427144309.png) 
 
->>####4.2.1 语言模型和文本生成
+>>#### 4.2.1 语言模型和文本生成
 >>>给定一序列的词，预测每一个句子或词出现的概率。
 
 >>>相关论文： 
@@ -166,11 +166,11 @@
 
 >>>- [Generating Text with Recurrent Neural Network](http://machinelearning.wustl.edu/mlpapers/paper_files/ICML2011Sutskever_524.pdf)
 
->###4.3 N to N
+>### 4.3 N to N
 
 >>![Fom](TIM图片20190427144511.png)
 
->>####4.3.1 语音识别
+>>#### 4.3.1 语音识别
 >>>将输入的一系列声音信号转化为文字。
 
 >>>相关论文：
@@ -179,7 +179,7 @@
 
 >>>- [Speech Recognition with Deep Recurrent Neural Network](http://www.cs.cmu.edu/afs/cs/user/bhiksha/WWW/courses/deeplearning/Fall.2016/pdfs/1104/RNN13.pdf) 
 
->###4.4 N to M
+>### 4.4 N to M
 
 >>![Fom](TIM图片20190427144724.png)
 
@@ -187,7 +187,7 @@
 
 >>![Fom](TIM图片20190427144855.png)
 
->>####4.4.1 机器翻译
+>>#### 4.4.1 机器翻译
 >>>将输入的源语言转化为输出的目标语言。
 
 >>>![Fom](Screen-Shot-2015-09-17-at-10.39.06-AM-1024x557.png)

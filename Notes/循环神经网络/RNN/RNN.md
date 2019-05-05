@@ -22,6 +22,14 @@
         * [3\.6\.2\.1 梯度爆炸](#3621-%E6%A2%AF%E5%BA%A6%E7%88%86%E7%82%B8)
         * [3\.6\.2\.2 梯度消失](#3622-%E6%A2%AF%E5%BA%A6%E6%B6%88%E5%A4%B1)
   * [4\. 应用](#4-%E5%BA%94%E7%94%A8)
+    * [4\.1 1 to N](#41-1-to-n)
+      * [4\.1\.1 生成图像描述](#411-%E7%94%9F%E6%88%90%E5%9B%BE%E5%83%8F%E6%8F%8F%E8%BF%B0)
+    * [4\.2 N to 1](#42-n-to-1)
+      * [4\.2\.1 语言模型和文本生成](#421-%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%92%8C%E6%96%87%E6%9C%AC%E7%94%9F%E6%88%90)
+    * [4\.3 N to N](#43-n-to-n)
+      * [4\.3\.1 语音识别](#431-%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB)
+    * [4\.4 N to M](#44-n-to-m)
+      * [4\.4\.1 机器翻译](#441-%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91)
   * [5\. RNN的变种](#5-rnn%E7%9A%84%E5%8F%98%E7%A7%8D)
     * [5\.1 Elman Network](#51-elman-network)
     * [5\.2 Jordan Network](#52-jordan-network)
@@ -33,7 +41,6 @@
     * [5\.8 Hierarchical Subsampling RNNs](#58-hierarchical-subsampling-rnns)
     * [5\.9 深度循环神经网络（Deep RNNs）](#59-%E6%B7%B1%E5%BA%A6%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9Cdeep-rnns)
   * [参考文献](#%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE)
-
 ## 1. 背景
 > 前馈神经网络难以处理时序数据：
 

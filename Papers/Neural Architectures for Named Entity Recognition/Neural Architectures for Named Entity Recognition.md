@@ -4,7 +4,38 @@ __Guillaume Lample, Miguel Ballesteros, Sandeep Subramanian, Kazuya Kawakami, Ch
 *Carnegie Mellon University, NLP Group of Pompeu Fabra University*  
 *NAACL'16*
 
-[TOC]
+* [<strong>Neural Architectures for Named Entity Recognition</strong>](#neural-architectures-for-named-entity-recognition)
+  * [<strong>1\. Motivation</strong>](#1-motivation)
+    * [<strong>1\.1 Challenges</strong>](#11-challenges)
+    * [<strong>1\.2 Solutions</strong>](#12-solutions)
+  * [<strong>2\. Methods</strong>](#2-methods)
+    * [<strong>2\.1 Input Word Embedding</strong>](#21-input-word-embedding)
+      * [<strong>2\.1\.1 Intuitions</strong>](#211-intuitions)
+      * [<strong>2\.1\.2 Character\-based models of words</strong>](#212-character-based-models-of-words)
+        * [<strong>2\.1\.2\.1 Advantages</strong>](#2121-advantages)
+        * [<strong>2\.1\.2\.2 Framework</strong>](#2122-framework)
+    * [<strong>2\.2 LSTM\-CRF Model</strong>](#22-lstm-crf-model)
+      * [<strong>2\.2\.1 Traditional CRF</strong>](#221-traditional-crf)
+        * [<strong>2\.2\.1\.1 Notations</strong>](#2211-notations)
+        * [<strong>2\.2\.1\.2 Formulations</strong>](#2212-formulations)
+      * [<strong>2\.2\.2 Framework</strong>](#222-framework)
+    * [<strong>2\.3 Transition\-Based Chunking Model</strong>](#23-transition-based-chunking-model)
+      * [<strong>2\.3\.1 Stack Long Short\-Term Memories (Reference)</strong>](#231-stack-long-short-term-memories-reference)
+      * [<strong>2\.3\.2 Transitions</strong>](#232-transitions)
+      * [<strong>2\.3\.3 Chunking Algorithm</strong>](#233-chunking-algorithm)
+      * [<strong>2\.3\.3 Example: Mark Watney visited Mars\.</strong>](#233-example-mark-watney-visited-mars)
+    * [<strong>2\.4\. IOBES Tagging Schemes</strong>](#24-iobes-tagging-schemes)
+  * [<strong>3\. Experiments</strong>](#3-experiments)
+    * [<strong>3\.1 Datasets</strong>](#31-datasets)
+    * [<strong>3\.2 Results</strong>](#32-results)
+      * [<strong>3\.2\.1 English NER results (CoNLL\-2003 test set)</strong>](#321-english-ner-results-conll-2003-test-set)
+      * [<strong>3\.2\.2 German NER results (CoNLL\-2003 test set)</strong>](#322-german-ner-results-conll-2003-test-set)
+      * [<strong>3\.2\.3 Dutch NER results (CoNLL\-2002 test set)</strong>](#323-dutch-ner-results-conll-2002-test-set)
+      * [<strong>3\.2\.4 Spanish NER results (CoNLL\-2002 test set)</strong>](#324-spanish-ner-results-conll-2002-test-set)
+      * [<strong>3\.2\.5 Different configurations (English)</strong>](#325-different-configurations-english)
+  * [<strong>4\. Related Works</strong>](#4-related-works)
+  * [<strong>5\. Shortcomings &amp; Improvements</strong>](#5-shortcomings--improvements)
+  * [<strong>6\. ReadList</strong>](#6-readlist)
 
 ## __1. Motivation__
 ### __1.1 Challenges__

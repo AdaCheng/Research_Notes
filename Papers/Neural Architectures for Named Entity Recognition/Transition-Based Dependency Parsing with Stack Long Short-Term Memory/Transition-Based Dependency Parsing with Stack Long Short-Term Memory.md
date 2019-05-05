@@ -4,7 +4,29 @@ __Chris Dyer, Miguel Ballesteros, Wang Ling, Austin Matthews, Noah A. Smith__
 *Marianas Labs, NLP Group of Pompeu Fabra University, Carnegie Mellon University*  
 *ACL'15*
 
-[TOC]
+* [<strong>Transition\-Based Dependency Parsing with Stack Long Short\-Term Memory</strong>](#transition-based-dependency-parsing-with-stack-long-short-term-memory)
+  * [<strong>1\. Background</strong>](#1-background)
+    * [<strong>1\.1 Definition</strong>](#11-definition)
+    * [<strong>1\.2 Advantages</strong>](#12-advantages)
+    * [<strong>1\.3 Challenges</strong>](#13-challenges)
+    * [<strong>1\.4 Solutions</strong>](#14-solutions)
+  * [<strong>2\. Method</strong>](#2-method)
+    * [<strong>2\.1 Stack LSTMs</strong>](#21-stack-lstms)
+    * [<strong>2\.2 Dependency Parser</strong>](#22-dependency-parser)
+      * [<strong>2\.2\.1 Transition Operations</strong>](#221-transition-operations)
+      * [<strong>2\.2\.2 Token Embeddings and OOVs</strong>](#222-token-embeddings-and-oovs)
+      * [<strong>2\.2\.3 Composition Functions</strong>](#223-composition-functions)
+      * [<strong>2\.2\.4 Parser Operation</strong>](#224-parser-operation)
+        * [<strong>2\.2\.4\.1 Algorithm</strong>](#2241-algorithm)
+        * [<strong>2\.2\.4\.2 Model</strong>](#2242-model)
+        * [<strong>2\.2\.4\.3 Formulations</strong>](#2243-formulations)
+  * [<strong>3\. Experiments</strong>](#3-experiments)
+    * [<strong>3\.1 Datasets</strong>](#31-datasets)
+      * [<strong>3\.1\.1 English</strong>](#311-english)
+      * [<strong>3\.1\.2 Chinese</strong>](#312-chinese)
+    * [<strong>3\.2 Results</strong>](#32-results)
+      * [<strong>3\.2\.1 English</strong>](#321-english)
+      * [<strong>3\.2\.2 Chinese</strong>](#322-chinese)
 
 ## __1. Background__
 ### __1.1 Definition__

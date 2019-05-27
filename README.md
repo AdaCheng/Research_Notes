@@ -6,9 +6,9 @@ This repository will constantly updated my new Research Notes.
     * [Dateset &amp; state\-of\-the\-art](#dateset--state-of-the-art)
       * [CoNLL 2003 (English)](#conll-2003-english)
     * [Paper](#paper)
-      * [<a href="https://github\.com/AdaCheng/Research\_Notes/blob/master/Papers/Neural%20Architectures%20for%20Named%20Entity%20Recognition/Neural%20Architectures%20for%20Named%20Entity%20Recognition\.md">Neural Architectures for Named Entity Recognition</a>](#neural-architectures-for-named-entity-recognition)
+      * [Neural Architectures for Named Entity Recognition](#neural-architectures-for-named-entity-recognition)
   * [Note](#note)
-    * [<a href="https://github\.com/AdaCheng/Research\_Notes/blob/master/Notes/%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/RNN/RNN\.md">循环神经网络</a>](#10-%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
+    * [循环神经网络](#%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
     
 ## Named Entity Recognition
 ### Dateset & state-of-the-art

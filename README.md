@@ -1,10 +1,19 @@
 # Research_Notes
 This repository will constantly updated my new Research Notes.
 
-## 0. Named Entity Recognition
-### 0.0 Dateset & state-of-the-art
+* [Research\_Notes](#research_notes)
+  * [Named Entity Recognition](#named-entity-recognition)
+    * [Dateset &amp; state\-of\-the\-art](#dateset--state-of-the-art)
+      * [CoNLL 2003 (English)](#conll-2003-english)
+    * [Paper](#paper)
+      * [<a href="https://github\.com/AdaCheng/Research\_Notes/blob/master/Papers/Neural%20Architectures%20for%20Named%20Entity%20Recognition/Neural%20Architectures%20for%20Named%20Entity%20Recognition\.md">Neural Architectures for Named Entity Recognition</a>](#neural-architectures-for-named-entity-recognition)
+  * [Note](#note)
+    * [<a href="https://github\.com/AdaCheng/Research\_Notes/blob/master/Notes/%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/RNN/RNN\.md">循环神经网络</a>](#10-%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
+    
+## Named Entity Recognition
+### Dateset & state-of-the-art
 > reference: https://github.com/sebastianruder/NLP-progress
-#### 0.0.0 CoNLL 2003 (English)
+#### CoNLL 2003 (English)
 
 The [CoNLL 2003 NER task](http://www.aclweb.org/anthology/W03-0419.pdf) consists of newswire text from the Reuters RCV1 
 corpus tagged with four different entity types (PER, LOC, ORG, MISC). Models are evaluated based on span-based F1 on the test set. ♦ used both the train and development splits for training.
@@ -29,16 +38,16 @@ corpus tagged with four different entity types (PER, LOC, ORG, MISC). Models are
 | Ma and Hovy (2016) | 91.21 | [End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF](https://arxiv.org/abs/1603.01354) | |
 | LSTM-CRF (Lample et al., 2016) | 90.94 | [Neural Architectures for Named Entity Recognition](https://arxiv.org/abs/1603.01360) | |
 
-### 0.1 Note
-#### 0.1.0. __[Neural Architectures for Named Entity Recognition](https://github.com/AdaCheng/Research_Notes/blob/master/Papers/Neural%20Architectures%20for%20Named%20Entity%20Recognition/Neural%20Architectures%20for%20Named%20Entity%20Recognition.md)__   
+### Paper
+#### __[Neural Architectures for Named Entity Recognition](https://github.com/AdaCheng/Research_Notes/blob/master/Papers/Neural%20Architectures%20for%20Named%20Entity%20Recognition/Neural%20Architectures%20for%20Named%20Entity%20Recognition.md)__   
  Guillaume Lample, Miguel Ballesteros, Sandeep Subramanian, Kazuya Kawakami, Chris Dyer  
  *Carnegie Mellon University, NLP Group of Pompeu Fabra University*  
  *NAACL'16*
 > Reference:  
-> 0. __[Transition-Based Dependency Parsing with Stack Long Short-Term Memory](https://github.com/AdaCheng/Research_Notes/blob/master/Papers/Neural%20Architectures%20for%20Named%20Entity%20Recognition/Transition-Based%20Dependency%20Parsing%20with%20Stack%20Long%20Short-Term%20Memory/Transition-Based%20Dependency%20Parsing%20with%20Stack%20Long%20Short-Term%20Memory.md)__  
+> 1. __[Transition-Based Dependency Parsing with Stack Long Short-Term Memory](https://github.com/AdaCheng/Research_Notes/blob/master/Papers/Neural%20Architectures%20for%20Named%20Entity%20Recognition/Transition-Based%20Dependency%20Parsing%20with%20Stack%20Long%20Short-Term%20Memory/Transition-Based%20Dependency%20Parsing%20with%20Stack%20Long%20Short-Term%20Memory.md)__  
 > Chris Dyer, Miguel Ballesteros, Wang Ling, Austin Matthews, Noah A. Smith  
 > *Marianas Labs, NLP Group of Pompeu Fabra University, Carnegie Mellon University*  
 > *ACL'15*
 
-## 1. NOTES
-### 1.0. __[循环神经网络](https://github.com/AdaCheng/Research_Notes/blob/master/Notes/%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/RNN/RNN.md)__
+## Note
+### __[循环神经网络](https://github.com/AdaCheng/Research_Notes/blob/master/Notes/%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/RNN/RNN.md)__

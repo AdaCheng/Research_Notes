@@ -9,6 +9,7 @@ This repository will constantly updated my new Research Notes.
       * [Neural Architectures for Named Entity Recognition](#neural-architectures-for-named-entity-recognition)
   * [Note](#note)
     * [循环神经网络](#%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
+    * [Transformer](#transformer)
     
 ## Named Entity Recognition
 ### Dateset & state-of-the-art
@@ -51,3 +52,4 @@ corpus tagged with four different entity types (PER, LOC, ORG, MISC). Models are
 
 ## Note
 ### __[循环神经网络](https://github.com/AdaCheng/Research_Notes/blob/master/Notes/%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/RNN/RNN.md)__
+### __[Transformer](https://github.com/AdaCheng/Research_Notes/blob/master/Notes/Transformer/Transformer.md)__

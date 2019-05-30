@@ -5,7 +5,7 @@ This repository will constantly updated my new Research Notes.
   * [Named Entity Recognition](#named-entity-recognition)
     * [Dateset &amp; state\-of\-the\-art](#dateset--state-of-the-art)
       * [CoNLL 2003 (English)](#conll-2003-english)
-    * [Paper](#paper)
+    * [Paper_Notes](#paper_notes)
       * [Neural Architectures for Named Entity Recognition](#neural-architectures-for-named-entity-recognition)
   * [Note](#note)
     * [循环神经网络](#%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
@@ -39,7 +39,7 @@ corpus tagged with four different entity types (PER, LOC, ORG, MISC). Models are
 | Ma and Hovy (2016) | 91.21 | [End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF](https://arxiv.org/abs/1603.01354) | |
 | LSTM-CRF (Lample et al., 2016) | 90.94 | [Neural Architectures for Named Entity Recognition](https://arxiv.org/abs/1603.01360) | |
 
-### Paper
+### Paper_Notes
 #### __[Neural Architectures for Named Entity Recognition](https://github.com/AdaCheng/Research_Notes/blob/master/Papers/Neural%20Architectures%20for%20Named%20Entity%20Recognition/Neural%20Architectures%20for%20Named%20Entity%20Recognition.md)__   
  Guillaume Lample, Miguel Ballesteros, Sandeep Subramanian, Kazuya Kawakami, Chris Dyer  
  *Carnegie Mellon University, NLP Group of Pompeu Fabra University*  

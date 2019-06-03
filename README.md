@@ -1,19 +1,8 @@
 # Research_Notes
 This repository will constantly updated my new Research Notes.
-
-* [Research\_Notes](#research_notes)
-  * [Named Entity Recognition](#named-entity-recognition)
-    * [Dateset &amp; state\-of\-the\-art](#dateset--state-of-the-art)
-      * [CoNLL 2003 (English)](#conll-2003-english)
-    * [Paper_Notes](#paper_notes)
-      * [Neural Architectures for Named Entity Recognition](#neural-architectures-for-named-entity-recognition)
-  * [Note](#note)
-    * [循环神经网络](#%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
-    * [Transformer](#transformer)
     
 ## Named Entity Recognition
 ### Dateset & state-of-the-art
-> reference: https://github.com/sebastianruder/NLP-progress
 #### CoNLL 2003 (English)
 
 The [CoNLL 2003 NER task](http://www.aclweb.org/anthology/W03-0419.pdf) consists of newswire text from the Reuters RCV1 
@@ -50,6 +39,33 @@ corpus tagged with four different entity types (PER, LOC, ORG, MISC). Models are
 > *Marianas Labs, NLP Group of Pompeu Fabra University, Carnegie Mellon University*  
 > *ACL'15*
 
+## Machine Translation
+### Dateset & state-of-the-art
+#### WMT 2014 EN-DE
+
+Models are evaluated on the English-German dataset of the Ninth Workshop on Statistical Machine Translation (WMT 2014) based
+on BLEU.
+
+| Model           | BLEU  |  Paper / Source |
+| ------------- | :-----:| --- |
+| Transformer Big + BT (Edunov et al., 2018) | 35.0 | [Understanding Back-Translation at Scale](https://arxiv.org/pdf/1808.09381.pdf) |
+| DeepL | 33.3 | [DeepL Press release](https://www.deepl.com/press.html) |
+| DynamicConv (Wu et al., 2019)| 29.7 | [Pay Less Attention With Lightweight and Dynamic Convolutions](https://arxiv.org/abs/1901.10430) |
+| Transformer Big (Ott et al., 2018) | 29.3 | [Scaling Neural Machine Translation](https://arxiv.org/abs/1806.00187) |
+| RNMT+ (Chen et al., 2018) | 28.5* | [The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation](https://arxiv.org/abs/1804.09849) |
+| Transformer Big (Vaswani et al., 2017) | 28.4 | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) |
+| Transformer Base (Vaswani et al., 2017) | 27.3 | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) |
+| MoE (Shazeer et al., 2017) | 26.03 | [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538) |
+| ConvS2S (Gehring et al., 2017) | 25.16 | [Convolutional Sequence to Sequence Learning](https://arxiv.org/abs/1705.03122) | 
+
+### Paper_Notes
+#### __[Attention Is All You Need](https://github.com/AdaCheng/Research_Notes/blob/master/Notes/Transformer/Transformer.md)__   
+  Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin  
+ *NIPS'17*
+ 
 ## Note
 ### __[循环神经网络](https://github.com/AdaCheng/Research_Notes/blob/master/Notes/%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/RNN/RNN.md)__
 ### __[Transformer](https://github.com/AdaCheng/Research_Notes/blob/master/Notes/Transformer/Transformer.md)__
+
+## Reference
+> [NLP-progress](https://github.com/sebastianruder/NLP-progress/) by Sebastian Ruder

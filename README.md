@@ -3,20 +3,23 @@ This repository will constantly updated my new Research Notes.
 
 * [Research\_Notes](#research_notes)
   * [Named Entity Recognition](#named-entity-recognition)
-    * [Dateset &amp; state\-of\-the\-art](#dateset--state-of-the-art)
+    * [Dateset &amp; state\-of\-the\-art](#dateset-state-of-the-art)
       * [CoNLL 2003 (English)](#conll-2003-english)
     * [Paper\_Notes](#paper_notes)
       * [Neural Architectures for Named Entity Recognition](#neural-architectures-for-named-entity-recognition)
   * [Machine Translation](#machine-translation)
-    * [Dateset &amp; state\-of\-the\-art](#dateset--state-of-the-art-1)
+    * [Dateset &amp; state\-of\-the\-art](#dateset-state-of-the-art_1)
       * [WMT 2014 EN\-DE](#wmt-2014-en-de)
     * [Paper\_Notes](#paper_notes-1)
+      * [BLEU: a Method for Automatic Evaluation of Machine Translation](#bleu-a-method-for-automatic-evaluation-of-machine-translation)
+      * [Sequence to Sequence Learning with Neural Networks](#sequence-to-sequence-learning-with-neural-networks)
+      * [Neural Machine Translation By Jointly Learning To Align And Translate](#neural-machine-translation-by-jointly-learning-to-align-and-translate)
       * [Attention Is All You Need](#attention-is-all-you-need)
   * [Note](#note)
     * [循环神经网络](#%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
     * [Transformer](#transformer)
   * [Reference](#reference)
-  
+
 ## Named Entity Recognition
 ### Dateset & state-of-the-art
 #### CoNLL 2003 (English)
@@ -45,12 +48,12 @@ corpus tagged with four different entity types (PER, LOC, ORG, MISC). Models are
 | LSTM-CRF (Lample et al., 2016) | 90.94 | [Neural Architectures for Named Entity Recognition](https://arxiv.org/abs/1603.01360) | |
 
 ### Paper_Notes
-#### __[Neural Architectures for Named Entity Recognition](https://github.com/AdaCheng/Research_Notes/blob/master/Papers/Neural%20Architectures%20for%20Named%20Entity%20Recognition/Neural%20Architectures%20for%20Named%20Entity%20Recognition.md)__   
+#### [Neural Architectures for Named Entity Recognition](https://github.com/AdaCheng/Research_Notes/blob/master/Papers/Neural%20Architectures%20for%20Named%20Entity%20Recognition/Neural%20Architectures%20for%20Named%20Entity%20Recognition.md)  
  Guillaume Lample, Miguel Ballesteros, Sandeep Subramanian, Kazuya Kawakami, Chris Dyer  
  *Carnegie Mellon University, NLP Group of Pompeu Fabra University*  
  *NAACL'16*
 > Reference:  
-> 1. __[Transition-Based Dependency Parsing with Stack Long Short-Term Memory](https://github.com/AdaCheng/Research_Notes/blob/master/Papers/Neural%20Architectures%20for%20Named%20Entity%20Recognition/Transition-Based%20Dependency%20Parsing%20with%20Stack%20Long%20Short-Term%20Memory/Transition-Based%20Dependency%20Parsing%20with%20Stack%20Long%20Short-Term%20Memory.md)__  
+> 1. [Transition-Based Dependency Parsing with Stack Long Short-Term Memory](https://github.com/AdaCheng/Research_Notes/blob/master/Papers/Neural%20Architectures%20for%20Named%20Entity%20Recognition/Transition-Based%20Dependency%20Parsing%20with%20Stack%20Long%20Short-Term%20Memory/Transition-Based%20Dependency%20Parsing%20with%20Stack%20Long%20Short-Term%20Memory.md)  
 > Chris Dyer, Miguel Ballesteros, Wang Ling, Austin Matthews, Noah A. Smith  
 > *Marianas Labs, NLP Group of Pompeu Fabra University, Carnegie Mellon University*  
 > *ACL'15*
@@ -75,13 +78,29 @@ on BLEU.
 | ConvS2S (Gehring et al., 2017) | 25.16 | [Convolutional Sequence to Sequence Learning](https://arxiv.org/abs/1705.03122) | 
 
 ### Paper_Notes
-#### __[Attention Is All You Need](https://github.com/AdaCheng/Research_Notes/blob/master/Notes/Transformer/Transformer.md)__   
+#### [BLEU: a Method for Automatic Evaluation of Machine Translation](TODO)
+  Kishore Papineni, Salim Roukos, Todd Ward, Weijing Zhu  
+ *IBM T.J. Watson Research Center*  
+ *ACL'02*
+
+#### [Sequence to Sequence Learning with Neural Networks](TODO)
+  Ilya Sutskever, Oriol Vinyals, Quoc V. Le  
+ *Google*  
+ *NIPS'14*
+
+#### [Neural Machine Translation By Jointly Learning To Align And Translate](TODO)
+  Dzmitry Bahdanau, KyungHyun Cho, Yoshua Bengio  
+ *Jacobs University Bremen, Universite de Montreal*  
+ *ICLR'15*
+
+#### [Attention Is All You Need](https://github.com/AdaCheng/Research_Notes/blob/master/Notes/Transformer/Transformer.md)    
   Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin  
+ *Carnegie Mellon University, NLP Group of Pompeu Fabra University*  
  *NIPS'17*
  
 ## Note
-### __[循环神经网络](https://github.com/AdaCheng/Research_Notes/blob/master/Notes/%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/RNN/RNN.md)__
-### __[Transformer](https://github.com/AdaCheng/Research_Notes/blob/master/Notes/Transformer/Transformer.md)__
+### [循环神经网络](https://github.com/AdaCheng/Research_Notes/blob/master/Notes/%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/RNN/RNN.md)
+### [Transformer](https://github.com/AdaCheng/Research_Notes/blob/master/Notes/Transformer/Transformer.md)
 
 ## Reference
 > [NLP-progress](https://github.com/sebastianruder/NLP-progress/) by Sebastian Ruder

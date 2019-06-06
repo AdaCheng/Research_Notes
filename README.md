@@ -1,21 +1,21 @@
-# Research_Notes
-This repository will constantly updated my new Research Notes.
+# NLP_Research
+This repository will constantly updated some milestone papers I have read and my notes(in English) in Natural Language Processing's subfields. And I will also summarize some basic knowledge (in Chinese) to help to better understand these papers.
 
-* [Research\_Notes](#research_notes)
+* [NLP\_Research](#nlp_research)
   * [Named Entity Recognition](#named-entity-recognition)
-    * [Dateset &amp; state\-of\-the\-art](#dateset-state-of-the-art)
+    * [Dateset &amp; state\-of\-the\-art](#dateset--state-of-the-art)
       * [CoNLL 2003 (English)](#conll-2003-english)
-    * [Paper\_Notes](#paper_notes)
+    * [Milestones](#milestones)
       * [Neural Architectures for Named Entity Recognition](#neural-architectures-for-named-entity-recognition)
-  * [Machine Translation](#machine-translation)
-    * [Dateset &amp; state\-of\-the\-art](#dateset-state-of-the-art_1)
+  * [Machine Trsanslation](#machine-trsanslation)
+    * [Dateet &amp; state\-of\-the\-art](#dateet--state-of-the-art)
       * [WMT 2014 EN\-DE](#wmt-2014-en-de)
-    * [Paper\_Notes](#paper_notes-1)
-      * [BLEU: a Method for Automatic Evaluation of Machine Translation](#bleu-a-method-for-automatic-evaluation-of-machine-translation)
-      * [Sequence to Sequence Learning with Neural Networks](#sequence-to-sequence-learning-with-neural-networks)
-      * [Neural Machine Translation By Jointly Learning To Align And Translate](#neural-machine-translation-by-jointly-learning-to-align-and-translate)
+    * [Milestones](#milestones-1)
+      * [BLEU: a Method for Automatic Evaluation of Machine Translation(TODO)](#bleu-a-method-for-automatic-evaluation-of-machine-translationtodo)
+      * [Sequence to Sequence Learning with Neural Networks(TODO)](#sequence-to-sequence-learning-with-neural-networkstodo)
+      * [Neural Machine Translation By Jointly Learning To Align And Translate(TODO)](#neural-machine-translation-by-jointly-learning-to-align-and-translatetodo)
       * [Attention Is All You Need](#attention-is-all-you-need)
-  * [Note](#note)
+  * [基础知识总结](#%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E6%80%BB%E7%BB%93)
     * [循环神经网络](#%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
     * [Transformer](#transformer)
   * [Reference](#reference)
@@ -23,7 +23,6 @@ This repository will constantly updated my new Research Notes.
 ## Named Entity Recognition
 ### Dateset & state-of-the-art
 #### CoNLL 2003 (English)
-
 The [CoNLL 2003 NER task](http://www.aclweb.org/anthology/W03-0419.pdf) consists of newswire text from the Reuters RCV1 
 corpus tagged with four different entity types (PER, LOC, ORG, MISC). Models are evaluated based on span-based F1 on the test set. ♦ used both the train and development splits for training.
 
@@ -47,21 +46,27 @@ corpus tagged with four different entity types (PER, LOC, ORG, MISC). Models are
 | Ma and Hovy (2016) | 91.21 | [End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF](https://arxiv.org/abs/1603.01354) | |
 | LSTM-CRF (Lample et al., 2016) | 90.94 | [Neural Architectures for Named Entity Recognition](https://arxiv.org/abs/1603.01360) | |
 
-### Paper_Notes
-#### [Neural Architectures for Named Entity Recognition](https://github.com/AdaCheng/Research_Notes/blob/master/Papers/Neural%20Architectures%20for%20Named%20Entity%20Recognition/Neural%20Architectures%20for%20Named%20Entity%20Recognition.md)  
+### Milestones
+#### Neural Architectures for Named Entity Recognition  
  Guillaume Lample, Miguel Ballesteros, Sandeep Subramanian, Kazuya Kawakami, Chris Dyer  
  *Carnegie Mellon University, NLP Group of Pompeu Fabra University*  
  *NAACL'16*
+
+ - [Link of Paper](https://arxiv.org/abs/1603.01360)
+ - [Link of Note](https://github.com/AdaCheng/Research_Notes/blob/master/Papers/Neural%20Architectures%20for%20Named%20Entity%20Recognition/Neural%20Architectures%20for%20Named%20Entity%20Recognition.md)
+
 > Reference:  
-> 1. [Transition-Based Dependency Parsing with Stack Long Short-Term Memory](https://github.com/AdaCheng/Research_Notes/blob/master/Papers/Neural%20Architectures%20for%20Named%20Entity%20Recognition/Transition-Based%20Dependency%20Parsing%20with%20Stack%20Long%20Short-Term%20Memory/Transition-Based%20Dependency%20Parsing%20with%20Stack%20Long%20Short-Term%20Memory.md)  
+> 1. __Transition-Based Dependency Parsing with Stack Long Short-Term Memory__  
 > Chris Dyer, Miguel Ballesteros, Wang Ling, Austin Matthews, Noah A. Smith  
 > *Marianas Labs, NLP Group of Pompeu Fabra University, Carnegie Mellon University*  
 > *ACL'15*
+> 
+>  - [Link of Paper](https://arxiv.org/abs/1505.08075)
+>  - [Link of Note](https://github.com/AdaCheng/Research_Notes/blob/master/Papers/Neural%20Architectures%20for%20Named%20Entity%20Recognition/Transition-Based%20Dependency%20Parsing%20with%20Stack%20Long%20Short-Term%20Memory/Transition-Based%20Dependency%20Parsing%20with%20Stack%20Long%20Short-Term%20Memory.md)
 
-## Machine Translation
-### Dateset & state-of-the-art
+## Machine Trsanslation
+### Dateet & state-of-the-art
 #### WMT 2014 EN-DE
-
 Models are evaluated on the English-German dataset of the Ninth Workshop on Statistical Machine Translation (WMT 2014) based
 on BLEU.
 
@@ -77,28 +82,40 @@ on BLEU.
 | MoE (Shazeer et al., 2017) | 26.03 | [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538) |
 | ConvS2S (Gehring et al., 2017) | 25.16 | [Convolutional Sequence to Sequence Learning](https://arxiv.org/abs/1705.03122) | 
 
-### Paper_Notes
-#### [BLEU: a Method for Automatic Evaluation of Machine Translation](TODO)
+### Milestones
+#### BLEU: a Method for Automatic Evaluation of Machine Translation(TODO)
   Kishore Papineni, Salim Roukos, Todd Ward, Weijing Zhu  
  *IBM T.J. Watson Research Center*  
  *ACL'02*
 
-#### [Sequence to Sequence Learning with Neural Networks](TODO)
+ - [Link of Paper](https://dl.acm.org/citation.cfm?id=1073135)
+ - [Link of Note]()
+
+#### Sequence to Sequence Learning with Neural Networks(TODO)
   Ilya Sutskever, Oriol Vinyals, Quoc V. Le  
  *Google*  
  *NIPS'14*
 
-#### [Neural Machine Translation By Jointly Learning To Align And Translate](TODO)
+ - [Link of Paper](https://arxiv.org/abs/1409.3215)
+ - [Link of Note]()
+
+#### Neural Machine Translation By Jointly Learning To Align And Translate(TODO)
   Dzmitry Bahdanau, KyungHyun Cho, Yoshua Bengio  
  *Jacobs University Bremen, Universite de Montreal*  
  *ICLR'15*
 
-#### [Attention Is All You Need](https://github.com/AdaCheng/Research_Notes/blob/master/Notes/Transformer/Transformer.md)    
+ - [Link of Paper](https://arxiv.org/abs/1409.0473)
+ - [Link of Note]()
+
+#### Attention Is All You Need   
   Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin  
  *Carnegie Mellon University, NLP Group of Pompeu Fabra University*  
  *NIPS'17*
+
+ - [Link of Paper](https://arxiv.org/abs/1706.03762)
+ - [Link of Note](https://github.com/AdaCheng/Research_Notes/blob/master/Notes/Transformer/Transformer.md)
  
-## Note
+## 基础知识总结
 ### [循环神经网络](https://github.com/AdaCheng/Research_Notes/blob/master/Notes/%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/RNN/RNN.md)
 ### [Transformer](https://github.com/AdaCheng/Research_Notes/blob/master/Notes/Transformer/Transformer.md)
 

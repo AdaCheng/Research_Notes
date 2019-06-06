@@ -89,7 +89,7 @@ on BLEU.
  *ACL'02*
 
  - [Link of Paper](https://dl.acm.org/citation.cfm?id=1073135)
- - [Link of Note]()
+ - Link of Note
 
 #### Sequence to Sequence Learning with Neural Networks(TODO)
   Ilya Sutskever, Oriol Vinyals, Quoc V. Le  
@@ -97,7 +97,7 @@ on BLEU.
  *NIPS'14*
 
  - [Link of Paper](https://arxiv.org/abs/1409.3215)
- - [Link of Note]()
+ - Link of Note
 
 #### Neural Machine Translation By Jointly Learning To Align And Translate(TODO)
   Dzmitry Bahdanau, KyungHyun Cho, Yoshua Bengio  
@@ -105,7 +105,7 @@ on BLEU.
  *ICLR'15*
 
  - [Link of Paper](https://arxiv.org/abs/1409.0473)
- - [Link of Note]()
+ - Link of Note
 
 #### Attention Is All You Need   
   Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin  

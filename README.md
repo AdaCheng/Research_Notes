@@ -70,7 +70,7 @@ This repository will constantly updated some milestone papers I have read and my
  *NIPS'14*
 
  - [Link of Paper](https://arxiv.org/abs/1409.3215)
- - Link of Note
+ - [Link of Note](https://github.com/AdaCheng/NLP_Research/blob/master/Papers/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.md)
 
 #### Neural Machine Translation By Jointly Learning To Align And Translate(TODO)
   Dzmitry Bahdanau, KyungHyun Cho, Yoshua Bengio  

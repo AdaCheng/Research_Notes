@@ -44,7 +44,6 @@ Produce translations by finding the most likely translation according to the LST
 Using a simple left-to-right beam search decoder.
 
 ## 3. Experiment
-> More details can be found in [Paper $3.4](https://arxiv.org/pdf/1409.3215.pdf)
 ### 3.1 Dataset
 - WMT'14 English to French MT task
     + On a subset of 12M sentences consisting of 348M French words and 304M English words.
@@ -55,6 +54,8 @@ Using a simple left-to-right beam search decoder.
 - Use it to rescore the n-best lists of an SMT baseline.
 
 ### 3.3 Trick
+> More details can be found in [Paper $3.4](https://arxiv.org/pdf/1409.3215.pdf)
+
 #### 3.3.1 EOS
 - Each sentence ends with a special end-of-sentence symbol "<EOS>", which enables the model to define a distribution over sequences of all possible lengths.
 

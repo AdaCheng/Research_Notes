@@ -12,7 +12,7 @@ This repository will constantly updated some milestone papers I have read and my
       * [English](#english-1)
     * [Milestones](#milestones-1)
       * [BLEU: a Method for Automatic Evaluation of Machine Translation(TODO)](#bleu-a-method-for-automatic-evaluation-of-machine-translationtodo)
-      * [Sequence to Sequence Learning with Neural Networks(TODO)](#sequence-to-sequence-learning-with-neural-networkstodo)
+      * [Sequence to Sequence Learning with Neural Networks](#sequence-to-sequence-learning-with-neural-networks)
       * [Neural Machine Translation By Jointly Learning To Align And Translate(TODO)](#neural-machine-translation-by-jointly-learning-to-align-and-translatetodo)
       * [Attention Is All You Need (TODO)](#attention-is-all-you-need-todo)
   * [基础知识总结](#%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E6%80%BB%E7%BB%93)
@@ -64,7 +64,7 @@ This repository will constantly updated some milestone papers I have read and my
  - [Link of Paper](https://dl.acm.org/citation.cfm?id=1073135)
  - Link of Note
 
-#### Sequence to Sequence Learning with Neural Networks(TODO)
+#### Sequence to Sequence Learning with Neural Networks
   Ilya Sutskever, Oriol Vinyals, Quoc V. Le  
  *Google*  
  *NIPS'14*

@@ -4,6 +4,26 @@ __Ilya Sutskever, Oriol Vinyals, Quoc V.Le__
 *Google*  
 *NIPS'14*
 
+* [Sequence to Sequence Learning with Neural Networks](#sequence-to-sequence-learning-with-neural-networks)
+  * [1\. Motivation](#1-motivation)
+    * [1\.1 Challenge](#11-challenge)
+    * [1\.2 Solution](#12-solution)
+  * [2\. Model](#2-model)
+    * [2\.1 Function](#21-function)
+    * [2\.2 Training](#22-training)
+    * [2\.3 Decoding](#23-decoding)
+  * [3\. Experiment](#3-experiment)
+    * [3\.1 Dataset](#31-dataset)
+    * [3\.2 Two ways](#32-two-ways)
+    * [3\.3 Trick](#33-trick)
+      * [3\.3\.1 EOS](#331-eos)
+      * [3\.3\.2 LSTMs](#332-lstms)
+      * [3\.3\.3 Reverse](#333-reverse)
+    * [3\.4 Parallelization](#34-parallelization)
+    * [3\.5 Results](#35-results)
+  * [4\. Analysis](#4-analysis)
+  * [5\. Shortages](#5-shortages)
+
 ## 1. Motivation
 ### 1.1 Challenge
 

@@ -35,7 +35,7 @@ This repository will constantly updated some milestone papers I have read and my
  *Carnegie Mellon University, NLP Group of Pompeu Fabra University*  
  *NAACL'16*
 
- - [Link of Paper](https://arxiv.org/abs/1603.01360)
+ - [Link of Paper (Citation: 957)](https://arxiv.org/abs/1603.01360)
  - [Link of Note](https://github.com/AdaCheng/Research_Notes/blob/master/Papers/Neural%20Architectures%20for%20Named%20Entity%20Recognition/Neural%20Architectures%20for%20Named%20Entity%20Recognition.md)
 
 > Reference:  
@@ -44,7 +44,7 @@ This repository will constantly updated some milestone papers I have read and my
 > *Marianas Labs, NLP Group of Pompeu Fabra University, Carnegie Mellon University*  
 > *ACL'15*
 > 
->  - [Link of Paper](https://arxiv.org/abs/1505.08075)
+>  - [Link of Paper (Citation: 438)](https://arxiv.org/abs/1505.08075)
 >  - [Link of Note](https://github.com/AdaCheng/Research_Notes/blob/master/Papers/Neural%20Architectures%20for%20Named%20Entity%20Recognition/Transition-Based%20Dependency%20Parsing%20with%20Stack%20Long%20Short-Term%20Memory/Transition-Based%20Dependency%20Parsing%20with%20Stack%20Long%20Short-Term%20Memory.md)
 
 ## Machine Trsanslation
@@ -61,7 +61,7 @@ This repository will constantly updated some milestone papers I have read and my
  *IBM T.J. Watson Research Center*  
  *ACL'02*
 
- - [Link of Paper](https://dl.acm.org/citation.cfm?id=1073135)
+ - [Link of Paper (Citation: 9,095)](https://dl.acm.org/citation.cfm?id=1073135)
  - Link of Note
 
 #### Sequence to Sequence Learning with Neural Networks
@@ -69,7 +69,7 @@ This repository will constantly updated some milestone papers I have read and my
  *Google*  
  *NIPS'14*
 
- - [Link of Paper](https://arxiv.org/abs/1409.3215)
+ - [Link of Paper (Citation: 6,687)](https://arxiv.org/abs/1409.3215)
  - [Link of Note](https://github.com/AdaCheng/NLP_Research/blob/master/Papers/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.md)
 
 #### Neural Machine Translation By Jointly Learning To Align And Translate(TODO)
@@ -77,7 +77,7 @@ This repository will constantly updated some milestone papers I have read and my
  *Jacobs University Bremen, Universite de Montreal*  
  *ICLR'15*
 
- - [Link of Paper](https://arxiv.org/abs/1409.0473)
+ - [Link of Paper (Citation: 7,171)](https://arxiv.org/abs/1409.0473)
  - Link of Note
 
 #### Attention Is All You Need (TODO)
@@ -85,7 +85,7 @@ This repository will constantly updated some milestone papers I have read and my
  *Carnegie Mellon University, NLP Group of Pompeu Fabra University*  
  *NIPS'17*
 
- - [Link of Paper](https://arxiv.org/abs/1706.03762)
+ - [Link of Paper (Citation: 2,028)](https://arxiv.org/abs/1706.03762)
  - Link of Note
  
 ## 基础知识总结

@@ -18,7 +18,6 @@ This repository will constantly updated some milestone papers I have read and my
   * [基础知识总结](#%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E6%80%BB%E7%BB%93)
     * [循环神经网络](#%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
     * [Transformer](#transformer)
-  * [Reference](#reference)
 
 ## Named Entity Recognition
 ### Dataset
@@ -94,5 +93,3 @@ This repository will constantly updated some milestone papers I have read and my
 ### Transformer
 - [Link of Note](https://github.com/AdaCheng/Research_Notes/blob/master/Notes/Transformer/Transformer.md)
 
-## Reference
-> [NLP-progress](https://github.com/sebastianruder/NLP-progress/) by Sebastian Ruder

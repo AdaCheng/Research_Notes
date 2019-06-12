@@ -13,7 +13,7 @@ This repository will constantly updated some milestone papers I have read and my
     * [Milestones](#milestones-1)
       * [BLEU: a Method for Automatic Evaluation of Machine Translation(TODO)](#bleu-a-method-for-automatic-evaluation-of-machine-translationtodo)
       * [Sequence to Sequence Learning with Neural Networks](#sequence-to-sequence-learning-with-neural-networks)
-      * [Neural Machine Translation By Jointly Learning To Align And Translate(TODO)](#neural-machine-translation-by-jointly-learning-to-align-and-translatetodo)
+      * [Neural Machine Translation By Jointly Learning To Align And Translate](#neural-machine-translation-by-jointly-learning-to-align-and-translate)
       * [Attention Is All You Need (TODO)](#attention-is-all-you-need-todo)
   * [基础知识总结](#%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E6%80%BB%E7%BB%93)
     * [循环神经网络](#%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
@@ -71,13 +71,13 @@ This repository will constantly updated some milestone papers I have read and my
  - [Link of Paper (Citation: 6,687)](https://arxiv.org/abs/1409.3215)
  - [Link of Note](https://github.com/AdaCheng/NLP_Research/blob/master/Papers/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.md)
 
-#### Neural Machine Translation By Jointly Learning To Align And Translate(TODO)
+#### Neural Machine Translation By Jointly Learning To Align And Translate
   Dzmitry Bahdanau, KyungHyun Cho, Yoshua Bengio  
  *Jacobs University Bremen, Universite de Montreal*  
  *ICLR'15*
 
  - [Link of Paper (Citation: 7,171)](https://arxiv.org/abs/1409.0473)
- - Link of Note
+ - [Link of Note](https://github.com/AdaCheng/NLP_Research/blob/master/Papers/Neural%20Machine%20Translation%20By%20Jointly%20Learning%20To%20Align%20And%20Translate/Neural%20Machine%20Traslation%20By%20Jointly%20Learning%20To%20Align%20And%20Translate.md)
 
 #### Attention Is All You Need (TODO)
   Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin  

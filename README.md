@@ -11,10 +11,17 @@ This repository will constantly updated some milestone papers I have read and my
     * [Dataset](#dataset-1)
       * [English](#english-1)
     * [Milestones](#milestones-1)
-      * [BLEU: a Method for Automatic Evaluation of Machine Translation(TODO)](#bleu-a-method-for-automatic-evaluation-of-machine-translationtodo)
+      * [BLEU: a Method for Automatic Evaluation of Machine Translation (TODO)](#bleu-a-method-for-automatic-evaluation-of-machine-translation-todo)
+      * [Statistical Phrase\-Based Translation (TODO)](#statistical-phrase-based-translation-todo)
       * [Sequence to Sequence Learning with Neural Networks](#sequence-to-sequence-learning-with-neural-networks)
       * [Neural Machine Translation By Jointly Learning To Align And Translate](#neural-machine-translation-by-jointly-learning-to-align-and-translate)
       * [Attention Is All You Need (TODO)](#attention-is-all-you-need-todo)
+    * [Survey](#survey)
+      * [Six Challenges for Neural Machine Translation (TODO)](#six-challenges-for-neural-machine-translation-todo)
+  * [Pre\-training](#pre-training)
+    * [Milestones](#milestones-2)
+      * [Efficient Estimation of Word Representations in Vector Space (TODO)](#efficient-estimation-of-word-representations-in-vector-space-todo)
+      * [GloVe: Global Vectors for Word Representation (TODO)](#glove-global-vectors-for-word-representation-todo)
   * [基础知识总结](#%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E6%80%BB%E7%BB%93)
     * [循环神经网络](#%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
     * [Transformer](#transformer)
@@ -55,12 +62,20 @@ This repository will constantly updated some milestone papers I have read and my
 > [Click to more details](https://github.com/sebastianruder/NLP-progress/blob/master/english/machine_translation.md)
 
 ### Milestones
-#### BLEU: a Method for Automatic Evaluation of Machine Translation(TODO)
+#### BLEU: a Method for Automatic Evaluation of Machine Translation (TODO)
   Kishore Papineni, Salim Roukos, Todd Ward, Weijing Zhu  
  *IBM T.J. Watson Research Center*  
  *ACL'02*
 
  - [Link of Paper (Citation: 9,095)](https://dl.acm.org/citation.cfm?id=1073135)
+ - Link of Note
+
+#### Statistical Phrase-Based Translation (TODO)
+  Philipp Koehn, Franz Josef Och, Daniel Marcu  
+ *Information Sciences Institute, Department of Computer Science, University of Southern California*  
+ *NAACL'03*
+
+ - [Link of Paper (Citation: 3,501)](https://dl.acm.org/citation.cfm?id=1073462)
  - Link of Note
 
 #### Sequence to Sequence Learning with Neural Networks
@@ -87,6 +102,42 @@ This repository will constantly updated some milestone papers I have read and my
  - [Link of Paper (Citation: 2,028)](https://arxiv.org/abs/1706.03762)
  - Link of Note
  
+### Survey
+#### Six Challenges for Neural Machine Translation (TODO)
+  Philipp Koehn, Rebecca Knowles   
+ *Computer Science Department, Johns Hopkins University*  
+ *ACL'17*
+
+ - [Link of Paper (Citation: 180)](https://arxiv.org/abs/1706.03872)
+ - Link of Note
+
+## Pre-training
+### Milestones
+#### Efficient Estimation of Word Representations in Vector Space (TODO)
+  Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean  
+ *Google*  
+ *Computer Science'13*
+
+ - [Link of Paper (Citation: 10,678)](https://arxiv.org/abs/1301.3781)
+ - Link of Note
+
+> Reference:  
+> 1. __Distributed Representations of Words and Phrases and their Compositionality (TODO)__  
+> Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, Jeffrey Dean  
+> *Google*  
+> *NIPS'13*
+> 
+>  - [Link of Paper (Citation: 13,124)](http://papers.nips.cc/paper/5021-distributed-representations-of-words-andphrases)
+>  - [Link of Note]
+
+#### GloVe: Global Vectors for Word Representation (TODO)
+  Jeffrey Pennington, Richard Socher, Christopher D. Mannning  
+ *Computer Science Department, Stanford University*  
+ *EMNLP'14*
+
+ - [Link of Paper (Citation: 7,915)](https://www.aclweb.org/anthology/D14-1162)
+ - Link of Note
+
 ## 基础知识总结
 ### 循环神经网络
 - [Link of Note](https://github.com/AdaCheng/Research_Notes/blob/master/Notes/%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/RNN/RNN.md)

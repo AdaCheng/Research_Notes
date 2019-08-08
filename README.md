@@ -162,7 +162,7 @@ This repository will constantly updated some milestone papers I have read and my
  *Google AI Language*  
  *NAACL'19*
 
- - [Link of Paper (Citation: 1032)](https://arxiv.org/abs/1810.04805)
+ - [Link of Paper (Citation: 1,032)](https://arxiv.org/abs/1810.04805)
  - Link of Note
 
 ## 基础知识总结

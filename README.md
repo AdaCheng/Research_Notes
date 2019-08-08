@@ -42,7 +42,7 @@ This repository will constantly updated some milestone papers I have read and my
  *NAACL'16*
 
  - [Link of Paper (Citation: 957)](https://arxiv.org/abs/1603.01360)
- - [Link of Note](https://github.com/AdaCheng/Research_Notes/blob/master/Papers/Neural%20Architectures%20for%20Named%20Entity%20Recognition/Neural%20Architectures%20for%20Named%20Entity%20Recognition.md)
+ - [Link of Note](https://adacheng.github.io/paper_note/2019/05/05/Neural-Architectures-for-Named-Entity-Recognition/)
 
 > Reference:  
 > 1. __Transition-Based Dependency Parsing with Stack Long Short-Term Memory__  
@@ -51,7 +51,7 @@ This repository will constantly updated some milestone papers I have read and my
 > *ACL'15*
 > 
 >  - [Link of Paper (Citation: 438)](https://arxiv.org/abs/1505.08075)
->  - [Link of Note](https://github.com/AdaCheng/Research_Notes/blob/master/Papers/Neural%20Architectures%20for%20Named%20Entity%20Recognition/Transition-Based%20Dependency%20Parsing%20with%20Stack%20Long%20Short-Term%20Memory/Transition-Based%20Dependency%20Parsing%20with%20Stack%20Long%20Short-Term%20Memory.md)
+>  - [Link of Note](https://adacheng.github.io/paper_note/2019/05/05/Transition-Based-Dependency-Parsing-with-Stack-Long-Short-Term-Memory/)
 
 ## Machine Trsanslation
 ### Dataset
@@ -84,7 +84,7 @@ This repository will constantly updated some milestone papers I have read and my
  *NIPS'14*
 
  - [Link of Paper (Citation: 6,687)](https://arxiv.org/abs/1409.3215)
- - [Link of Note](https://github.com/AdaCheng/NLP_Research/blob/master/Papers/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.md)
+ - [Link of Note](https://adacheng.github.io/paper_note/2019/06/11/Sequence-to-Sequence-Learning-with-Neural-Networks/)
 
 #### Neural Machine Translation By Jointly Learning To Align And Translate
   Dzmitry Bahdanau, KyungHyun Cho, Yoshua Bengio  
@@ -92,7 +92,7 @@ This repository will constantly updated some milestone papers I have read and my
  *ICLR'15*
 
  - [Link of Paper (Citation: 7,171)](https://arxiv.org/abs/1409.0473)
- - [Link of Note](https://github.com/AdaCheng/NLP_Research/blob/master/Papers/Neural%20Machine%20Translation%20By%20Jointly%20Learning%20To%20Align%20And%20Translate/Neural%20Machine%20Traslation%20By%20Jointly%20Learning%20To%20Align%20And%20Translate.md)
+ - [Link of Note](https://adacheng.github.io/paper_note/2019/06/13/Neural-Machine-Traslation-By-Jointly-Learning-To-Align-And-Translate/)
 
 #### Attention Is All You Need (TODO)
   Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin  

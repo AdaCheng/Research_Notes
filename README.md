@@ -16,15 +16,20 @@ This repository will constantly updated some milestone papers I have read and my
       * [Sequence to Sequence Learning with Neural Networks](#sequence-to-sequence-learning-with-neural-networks)
       * [Neural Machine Translation By Jointly Learning To Align And Translate](#neural-machine-translation-by-jointly-learning-to-align-and-translate)
       * [Attention Is All You Need (TODO)](#attention-is-all-you-need-todo)
-    * [Survey](#survey)
-      * [Six Challenges for Neural Machine Translation (TODO)](#six-challenges-for-neural-machine-translation-todo)
   * [Pre\-training](#pre-training)
     * [Milestones](#milestones-2)
+      * [A Neural Probabilistic Language Model (TODO)](#a-neural-probabilistic-language-model-todo)
       * [Efficient Estimation of Word Representations in Vector Space (TODO)](#efficient-estimation-of-word-representations-in-vector-space-todo)
       * [GloVe: Global Vectors for Word Representation (TODO)](#glove-global-vectors-for-word-representation-todo)
+      * [Deep contextualized word representations (TODO)](#deep-contextualized-word-representations-todo)
+      * [Improving Language Understanding by Generative Pre\-Training (TODO)](#improving-language-understanding-by-generative-pre-training-todo)
+      * [BERT: Pre\-training of Deep Bidirectional Transformers for Language Understanding (TODO)](#bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding-todo)
   * [基础知识总结](#%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E6%80%BB%E7%BB%93)
     * [循环神经网络](#%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
     * [Transformer](#transformer)
+    * [自然语言处理之命名实体识别(ing)](#%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B9%8B%E5%91%BD%E5%90%8D%E5%AE%9E%E4%BD%93%E8%AF%86%E5%88%ABing)
+    * [自然语言处理之机器翻译(ing)](#%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B9%8B%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91ing)
+    * [自然语言处理之预训练技术(ing)](#%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B9%8B%E9%A2%84%E8%AE%AD%E7%BB%83%E6%8A%80%E6%9C%AFing)
 
 ## Named Entity Recognition
 ### Dataset
@@ -101,18 +106,17 @@ This repository will constantly updated some milestone papers I have read and my
 
  - [Link of Paper (Citation: 2,028)](https://arxiv.org/abs/1706.03762)
  - Link of Note
- 
-### Survey
-#### Six Challenges for Neural Machine Translation (TODO)
-  Philipp Koehn, Rebecca Knowles   
- *Computer Science Department, Johns Hopkins University*  
- *ACL'17*
-
- - [Link of Paper (Citation: 180)](https://arxiv.org/abs/1706.03872)
- - Link of Note
 
 ## Pre-training
 ### Milestones
+
+#### A Neural Probabilistic Language Model (TODO)
+  Yoshua Bengio, Rejean Ducharme, Pascal Vincent, Christian Jauvin
+  *Departement d'Informatique et Recherche Operationnelle*
+  *JMLR'03*
+
+- [Link of Paper (Citation: 4,750)](http://www.jmlr.org/papers/v3/bengio03a)
+
 #### Efficient Estimation of Word Representations in Vector Space (TODO)
   Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean  
  *Google*  
@@ -138,9 +142,44 @@ This repository will constantly updated some milestone papers I have read and my
  - [Link of Paper (Citation: 7,915)](https://www.aclweb.org/anthology/D14-1162)
  - Link of Note
 
+#### Deep contextualized word representations (TODO)
+  Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, Luke Zettlemoyer  
+ *Allen Institue for artificial Intelligence*  
+ *ACL'18*
+
+ - [Link of Paper (Citation: 788)](https://arxiv.org/abs/1802.05365)
+ - Link of Note
+
+#### Improving Language Understanding by Generative Pre-Training (TODO)
+  Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever  
+ *OpenAI*  
+
+ - [Link of Paper (Citation: 177)](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)
+ - Link of Note
+
+#### BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (TODO)
+  Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova  
+ *Google AI Language*  
+ *NAACL'19*
+
+ - [Link of Paper (Citation: 1032)](https://arxiv.org/abs/1810.04805)
+ - Link of Note
+
 ## 基础知识总结
 ### 循环神经网络
 - [Link of Note](https://github.com/AdaCheng/Research_Notes/blob/master/Notes/%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/RNN/RNN.md)
+
 ### Transformer
 - [Link of Note](https://adacheng.github.io/survey/2019/05/29/Transformer/)
+
+### 自然语言处理之命名实体识别(ing)
+- [Link of Note](https://adacheng.github.io/survey/2019/07/23/自然语言处理之命名实体识别/)
+
+### 自然语言处理之机器翻译(ing)
+- [Link of Note](https://adacheng.github.io/survey/2019/06/16/自然语言处理之机器翻译/)
+
+### 自然语言处理之预训练技术(ing)
+- [Link of Note](https://adacheng.github.io/survey/2019/06/26/自然语言处理之预训练技术/)
+
+
 

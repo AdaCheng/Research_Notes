@@ -4,7 +4,7 @@
 - [ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning](https://arxiv.org/abs/1811.00146)  
     **ATOMIC** focuses on inferential knowledge organized as typed *If-Then* relations. It has three types of *If-Then* knowledge, and nine new inferential dimensions. This knowledge graph contains 877k triples, 309K nodes, collected using 24K base events.
 
-    ![Example](../Resource/ATOMIC.png)
+    ![ATOMIC](../Resource/ATOMIC.png)
 - [COMET: Commonsense Transformers for Automatic Knowledge Graph Construction](https://arxiv.org/abs/1906.05317)  
 - [CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge](https://arxiv.org/abs/1811.00937)  
 - [ConceptNet -- A Practical Commonsense Reasoning Tool-kit](https://link.springer.com/article/10.1023/B:BTTJ.0000047600.45421.6d)  

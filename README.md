@@ -1,7 +1,7 @@
 # NLP_Research
 This repository will constantly updated some milestone papers I have read and my notes(in English) in Natural Language Processing's subfields. And I will also summarize some basic knowledge (in Chinese) to help to better understand these papers.
 
-## [Commonsense]()
+1. [Commonsense](https://github.com/AdaCheng/NLP_Research/blob/master/Category/Commonsense.md)
 
 
 ## Named Entity Recognition

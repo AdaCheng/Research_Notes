@@ -9,8 +9,8 @@ This repository will constantly updated some milestone papers I have read and my
 - [Language Model](https://adacheng.github.io/nlp_research/2019/11/02/Language-Model/)
 - [Machine Translation](https://adacheng.github.io/nlp_research/2019/11/02/Machine-Translation/)
 - [Multi-task Learning](https://adacheng.github.io/nlp_research/2019/11/02/Multi-task-Learning/)
-- [Named Entity Recognition](https://adacheng.github.io/nlp_research/2019/11/02/Named Entity Recognition/)
-- [Poetry Generalization](https://adacheng.github.io/nlp_research/2019/11/02/Poetry Generalization/)
+- [Named Entity Recognition](https://adacheng.github.io/nlp_research/2019/11/02/Named-Entity-Recognition/)
+- [Poetry Generalization](https://adacheng.github.io/nlp_research/2019/11/02/Poetry-Generalization/)
 - [Summarization](https://adacheng.github.io/nlp_research/2019/11/02/Summarization/)
 
 ## 基础知识总结

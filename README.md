@@ -3,15 +3,15 @@ This repository will constantly updated some milestone papers I have read and my
 
 ## List of Category
 - [Commonsense](https://adacheng.github.io/nlp_research/2019/11/02/Commonsense/)
-- [Coreference Resolution](https://github.com/AdaCheng/NLP_Research/blob/master/Category/Coreference%20Resolution.md)
-- [Dependency Parsing](https://github.com/AdaCheng/NLP_Research/blob/master/Category/Dependency%20Parsing.md)
-- [Gender-bias](https://github.com/AdaCheng/NLP_Research/blob/master/Category/Gender-bias.md)
-- [Language Model](https://github.com/AdaCheng/NLP_Research/blob/master/Category/Language%20Model.md)
-- [Machine Translation](https://github.com/AdaCheng/NLP_Research/blob/master/Category/Machine%20Translation.md)
-- [Multi-task Learning](https://github.com/AdaCheng/NLP_Research/blob/master/Category/Multi-task%20Learning.md)
-- [Named Entity Recognition](https://github.com/AdaCheng/NLP_Research/blob/master/Category/Named%20Entity%20Recognition.md)
-- [Poetry Generalization](https://github.com/AdaCheng/NLP_Research/blob/master/Category/Poetry%20Generalization.md)
-- [Summarization](https://github.com/AdaCheng/NLP_Research/blob/master/Category/Summarization.md)
+- [Coreference Resolution](https://adacheng.github.io/nlp_research/2019/11/02/Coreference-Resolution/)
+- [Dependency Parsing](https://adacheng.github.io/nlp_research/2019/11/02/Dependency-Parsing/)
+- [Gender-bias](https://adacheng.github.io/nlp_research/2019/11/02/Gender-bias/)
+- [Language Model](https://adacheng.github.io/nlp_research/2019/11/02/Language-Model/)
+- [Machine Translation](https://adacheng.github.io/nlp_research/2019/11/02/Machine-Translation/)
+- [Multi-task Learning](https://adacheng.github.io/nlp_research/2019/11/02/Multi-task-Learning/)
+- [Named Entity Recognition](https://adacheng.github.io/nlp_research/2019/11/02/Named Entity Recognition/)
+- [Poetry Generalization](https://adacheng.github.io/nlp_research/2019/11/02/Poetry Generalization/)
+- [Summarization](https://adacheng.github.io/nlp_research/2019/11/02/Summarization/)
 
 ## 基础知识总结
 ### 循环神经网络

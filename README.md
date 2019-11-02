@@ -2,16 +2,16 @@
 This repository will constantly updated some milestone papers I have read and my notes(in English) in Natural Language Processing's subfields. And I will also summarize some basic knowledge (in Chinese) to help to better understand these papers.
 
 ## List of Category
-### [Commonsense](https://github.com/AdaCheng/NLP_Research/blob/master/Category/Commonsense.md)
-### [Coreference Resolution](https://github.com/AdaCheng/NLP_Research/blob/master/Category/Coreference%20Resolution.md)
-### [Dependency Parsing](https://github.com/AdaCheng/NLP_Research/blob/master/Category/Dependency%20Parsing.md)
-### [Gender-bias](https://github.com/AdaCheng/NLP_Research/blob/master/Category/Gender-bias.md)
-### [Language Model](https://github.com/AdaCheng/NLP_Research/blob/master/Category/Language%20Model.md)
-### [Machine Translation](https://github.com/AdaCheng/NLP_Research/blob/master/Category/Machine%20Translation.md)
-### [Multi-task Learning](https://github.com/AdaCheng/NLP_Research/blob/master/Category/Multi-task%20Learning.md)
-### [Named Entity Recognition](https://github.com/AdaCheng/NLP_Research/blob/master/Category/Named%20Entity%20Recognition.md)
-### [Poetry Generalization](https://github.com/AdaCheng/NLP_Research/blob/master/Category/Poetry%20Generalization.md)
-### [Summarization](https://github.com/AdaCheng/NLP_Research/blob/master/Category/Summarization.md)
+- [Commonsense](https://adacheng.github.io/nlp_research/2019/11/02/Commonsense/)
+- [Coreference Resolution](https://github.com/AdaCheng/NLP_Research/blob/master/Category/Coreference%20Resolution.md)
+- [Dependency Parsing](https://github.com/AdaCheng/NLP_Research/blob/master/Category/Dependency%20Parsing.md)
+- [Gender-bias](https://github.com/AdaCheng/NLP_Research/blob/master/Category/Gender-bias.md)
+- [Language Model](https://github.com/AdaCheng/NLP_Research/blob/master/Category/Language%20Model.md)
+- [Machine Translation](https://github.com/AdaCheng/NLP_Research/blob/master/Category/Machine%20Translation.md)
+- [Multi-task Learning](https://github.com/AdaCheng/NLP_Research/blob/master/Category/Multi-task%20Learning.md)
+- [Named Entity Recognition](https://github.com/AdaCheng/NLP_Research/blob/master/Category/Named%20Entity%20Recognition.md)
+- [Poetry Generalization](https://github.com/AdaCheng/NLP_Research/blob/master/Category/Poetry%20Generalization.md)
+- [Summarization](https://github.com/AdaCheng/NLP_Research/blob/master/Category/Summarization.md)
 
 ## 基础知识总结
 ### 循环神经网络

@@ -1,42 +1,15 @@
 # NLP_Research
 This repository will constantly updated some milestone papers I have read and my notes(in English) in Natural Language Processing's subfields. And I will also summarize some basic knowledge (in Chinese) to help to better understand these papers.
 
-* [NLP\_Research](#nlp_research)
-  * [Named Entity Recognition](#named-entity-recognition)
-    * [Dataset](#dataset)
-      * [English](#english)
-    * [Milestones](#milestones)
-      * [Neural Architectures for Named Entity Recognition](#neural-architectures-for-named-entity-recognition)
-  * [Machine Trsanslation](#machine-trsanslation)
-    * [Dataset](#dataset-1)
-      * [English](#english-1)
-    * [Milestones](#milestones-1)
-      * [BLEU: a Method for Automatic Evaluation of Machine Translation (TODO)](#bleu-a-method-for-automatic-evaluation-of-machine-translation-todo)
-      * [Statistical Phrase\-Based Translation (TODO)](#statistical-phrase-based-translation-todo)
-      * [Sequence to Sequence Learning with Neural Networks](#sequence-to-sequence-learning-with-neural-networks)
-      * [Neural Machine Translation By Jointly Learning To Align And Translate](#neural-machine-translation-by-jointly-learning-to-align-and-translate)
-      * [Attention Is All You Need (TODO)](#attention-is-all-you-need-todo)
-  * [Pre\-training](#pre-training)
-    * [Milestones](#milestones-2)
-      * [A Neural Probabilistic Language Model (TODO)](#a-neural-probabilistic-language-model-todo)
-      * [Efficient Estimation of Word Representations in Vector Space (TODO)](#efficient-estimation-of-word-representations-in-vector-space-todo)
-      * [GloVe: Global Vectors for Word Representation (TODO)](#glove-global-vectors-for-word-representation-todo)
-      * [Deep contextualized word representations (TODO)](#deep-contextualized-word-representations-todo)
-      * [Improving Language Understanding by Generative Pre\-Training (TODO)](#improving-language-understanding-by-generative-pre-training-todo)
-      * [BERT: Pre\-training of Deep Bidirectional Transformers for Language Understanding (TODO)](#bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding-todo)
-  * [基础知识总结](#%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E6%80%BB%E7%BB%93)
-    * [循环神经网络](#%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
-    * [Transformer](#transformer)
-    * [自然语言处理之命名实体识别(ing)](#%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B9%8B%E5%91%BD%E5%90%8D%E5%AE%9E%E4%BD%93%E8%AF%86%E5%88%ABing)
-    * [自然语言处理之机器翻译(ing)](#%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B9%8B%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91ing)
-    * [自然语言处理之预训练技术(ing)](#%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B9%8B%E9%A2%84%E8%AE%AD%E7%BB%83%E6%8A%80%E6%9C%AFing)
+## [Commonsense]()
+
 
 ## Named Entity Recognition
 ### Dataset
 #### English
-- [CoNLL 2003 (English)](http://www.aclweb.org/anthology/W03-0419.pdf)
+- [CoNLL 2003](http://www.aclweb.org/anthology/W03-0419.pdf)
 - [Long-tail emerging entities](http://aclweb.org/anthology/W17-4418)
-- [Ontonotes v5 (English)](https://catalog.ldc.upenn.edu/docs/LDC2013T19/OntoNotes-Release-5.0.pdf)
+- [Ontonotes v5](https://catalog.ldc.upenn.edu/docs/LDC2013T19/OntoNotes-Release-5.0.pdf)
 
 > [Click to more details](https://github.com/sebastianruder/NLP-progress/blob/master/english/named_entity_recognition.md)
 

@@ -6,6 +6,7 @@ This repository will constantly update some materials (e.g., datasets, papers) a
     + [COMET: Commonsense Transformers for Automatic Knowledge Graph Construction](https://adacheng.github.io/paper_note/2019/11/02/COMET-Commonsense-Transformers-for-Automatic-Knowledge-Graph/)
 - [Coreference Resolution](https://adacheng.github.io/nlp_research/2019/11/02/Coreference-Resolution/)
 - [Dependency Parsing](https://adacheng.github.io/nlp_research/2019/11/02/Dependency-Parsing/)
+    + [Transition-Based Dependency Parsing with Stack Long Short-Term Memory](https://adacheng.github.io/paper_note/2019/05/05/Transition-Based-Dependency-Parsing-with-Stack-Long-Short-Term-Memory/)
 - [Gender-bias](https://adacheng.github.io/nlp_research/2019/11/02/Gender-bias/)
 - [Language Model](https://adacheng.github.io/nlp_research/2019/11/02/Language-Model/)
 - [Machine Translation](https://adacheng.github.io/nlp_research/2019/11/02/Machine-Translation/)
@@ -16,6 +17,7 @@ This repository will constantly update some materials (e.g., datasets, papers) a
     + Attention Is All You Need (TODO)
 - [Multi-task Learning](https://adacheng.github.io/nlp_research/2019/11/02/Multi-task-Learning/)
 - [Named Entity Recognition](https://adacheng.github.io/nlp_research/2019/11/02/Named-Entity-Recognition/)
+    + [Neural Architectures for Named Entity Recognition](https://adacheng.github.io/paper_note/2019/05/05/Neural-Architectures-for-Named-Entity-Recognition/)
 - [Poetry Generalization](https://adacheng.github.io/nlp_research/2019/11/02/Poetry-Generalization/)
 - [Summarization](https://adacheng.github.io/nlp_research/2019/11/02/Summarization/)
 

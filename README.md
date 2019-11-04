@@ -1,5 +1,5 @@
 # NLP_Research
-This repository will constantly updated some milestone papers I have read and my notes(in English) in Natural Language Processing's subfields. And I will also summarize some basic knowledge (in Chinese) to help to better understand these papers.
+This repository will constantly update some materials (e.g., datasets, papers) about some subfields in Natural Language Processing. I will recommend some awesome papers according to my preference, and make a note (in English) to introduce them. And I will also summarize some basic knowledge (in Chinese) to help better understand these papers.
 
 ## List of Category and Recommmedation
 - [Commonsense](https://adacheng.github.io/nlp_research/2019/11/02/Commonsense/)
